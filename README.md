@@ -221,8 +221,10 @@ SL NO	% OF POT VALUE	ADC VALUE
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
 ## Output :
+### Before Stimulation:
 ![di1](https://user-images.githubusercontent.com/93427345/201477002-f0b5ae9a-7d14-42c5-8fc1-64df72d3586d.png)
 
+### After Stimulation:
 ![di2](https://user-images.githubusercontent.com/93427345/201477014-f57f47d4-e61b-46c8-aa37-faf7f083db93.png)
 
 ## Result :
